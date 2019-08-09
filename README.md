@@ -1,3 +1,3 @@
-# 0xc05.github.io
+# 0xc05.pw
 
 Theme from http://mbrserver.com/
