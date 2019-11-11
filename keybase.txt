@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/0xc05
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://0xc05.pw
+  * I am 0xc05 (https://keybase.io/0xc05) on keybase.
+  * I have a public key with fingerprint DDDB D443 4A0B B566 3985  4EF2 5191 1073 8A79 949C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101762ea787b3a444f06e469245231d2f5865140b2cdee4c3f267cff98cea7c2ed20a",
+      "fingerprint": "dddbd4434a0bb56639854ef2519110738a79949c",
+      "host": "keybase.io",
+      "key_id": "519110738a79949c",
+      "kid": "0101762ea787b3a444f06e469245231d2f5865140b2cdee4c3f267cff98cea7c2ed20a",
+      "uid": "be6aefa6e531112845fbfea4c64a3319",
+      "username": "0xc05"
+    },
+    "service": {
+      "hostname": "0xc05.pw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1573436442,
+  "expire_in": 157680000,
+  "prev": "7ad4185241d7ee4b124038207b728558e1b0580313d38ef1dfc9e71ac352dcf5",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJZSBVRGL7XbLu0KrRYQc1LZTebc+acWW4LbbSIFD0EUcptZs4ZHbSZ
+6c7o1W6SWLQRUTciokUisqzAokVtkRIlKcMsNHtqJUJoMwhaqM5cCnrosfNyON/5
+vu///p+/dfiAQCj4fc5Rrzy36XTw3u19pYGC9htZCU6zSQUXSXDFNHXREkJdL1ps
+Ei7C8YAHkgipKsmSJqgIIYMXKRIViDAUAIEGlkUMEK9BnVCKdMGAoqQbhiLrTKRD
+SiCvcmHOMK1CGnNipuUxW0KIRhASkMprGhZFQZExogbEQAGAlwRZlRQFKToTFtmu
+r2DhNNWlOabNMPaIpuL9g/+fc5em7DQqqtRQRYoFAACUETY0g6pIF5EqCEDxiS6N
+WeoG6hcv13nMVYY5BpWZOvWn6rfx93eOE2ciJ2Z7tm6XMLTI8xw34qu8CsenxakW
+/W0Q1UyLsAEyRRmNuaZtcRHAmLpn+o4ASwISRIRgmKPljhmjUdNKwaLMs+PXoWXM
+UlIJAjKGCBCJNa0BiHhBhrykSVDGWKZA47HMC0AggkwNQAxdoRJQdQFDohuY81va
+aNlcBLOYaiGzdM1CS/VKY5SrbLmVnx4IhgKDBqb5ixUIDR31Z93Gdg/+Sfiv2uWs
+3rzFaaP44tpBy+fHM8Y8691dMe/i0COvj59TThXtuZB5jKyqBZ0fYPAM7IrvmLp/
+y95d19K2N8Qbhm3flryfM/uSWV9SsPDFDyvZ/+bskZcZPacbn+R9W0M7rvB3XnXL
+hWhDR+OUye+z+iM1uQ/a669PjDbp+5fdM/pyQ0Nuzn08YPGSZM2Bk1uqJGf0ypGN
+rUpwftXTR9OclraHVSPkmZn9J2b1zXh21ZFXvN1UQ/M+Zh88lJ0IfGoOf157CPZI
+dafM5k/p1d8Sn9/N2xrcfMFtrxyXNn1R5911O+uDy8/X1p09/GVZV/74YxOmtq1e
+kJyU/aSueuma9c83VYemLPoFvg06lA==
+=sRva
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/0xc05
+
+==================================================================
