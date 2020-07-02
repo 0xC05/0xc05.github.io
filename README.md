@@ -1,3 +1,3 @@
 # 0xc05.pw
 
-Theme from http://mbrserver.com/
+My Site and Blog!
